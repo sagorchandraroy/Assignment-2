@@ -1,0 +1,473 @@
+@import url('https://fonts.googleapis.com/css2?family=Grey+Qo&display=swap');
+
+
+/** share style **/
+.flex{
+    display: flex;
+}
+.btn{
+    background: rgba(230, 83, 60, 1);
+    color:rgba(255, 255, 255, 1);
+    border-radius: 42px;
+    padding: 16px 71px;
+    font-size: 1.1rem;
+}
+.btn-1{
+    color: #FFFFFF;
+    background-color: black;
+    border: 2px solid white;
+    border-radius: 42px;
+    padding: 16px 71px;
+    font-size: 1.1rem;
+}
+.second-bg{
+    max-width: 100%;
+    margin: 0 auto;
+    background-color: rgb(34,34,34);
+    margin-bottom: 88px;
+}
+
+/** header **/
+
+
+.color{
+    background-color: black;
+    color: white;
+}
+.font{
+    font-family: "Inter", sans-serif;
+    background-color: ;
+}
+.nav{
+    justify-content: space-between;
+    align-items: center;
+    max-width: 1370px;
+    margin: 0 auto;
+
+}
+
+.nav-tittle{
+    color: #E6533C;
+}
+
+.nav-items{
+  align-items: center;
+  border: 1px solid black;
+  border-radius: 39px;
+}
+.nav-links{
+ list-style-type: none;
+}
+.nav-link{
+    text-decoration: none;
+    margin-right: 47px;
+    color: white;
+}
+.nav-link-1{
+    text-decoration: none;
+    color: #FFFFFF;
+    
+}
+.header-containt{
+    align-items: center;
+    justify-content: space-between;
+    margin-left: 0px;
+    max-width: 1370px;
+    margin: 0 auto;
+
+}
+.header-container{
+   justify-content: space-between;
+}
+.header-tittle{
+  font-weight: 900px;
+  font-size: 4rem;
+}
+#shape{
+    font-family: "Grey Qo", cursive;
+    font-style: italic;
+    font-size: 4.8rem;
+}
+.header-img{
+    margin-left: 70px;
+}
+.header-description{
+    color: rgba(255, 255, 255, 0.5);
+}
+.video-tuitorial-container{
+    height: 96px;
+    width: 206px;
+    border: 1px solid white;
+    background-color: rgba(48, 48, 48, 0.54);
+    margin-left: -70px;
+    margin-top: -150px;
+    border-radius: 12px;
+    align-items: center;
+    gap: 20px;
+}
+.circle{
+    height: 40px;
+    width: 40px;
+    background-color: #E6533C;
+    border-radius: 25px;
+}
+.video-title{
+    font-size: 1.5rem;
+    font-weight: 800;
+}
+.video-description{
+    color: rgba(239, 237, 232, 0.65);
+}
+.free-container{
+    border: 2px solid white;
+    border-radius: 12px;
+    margin-top: -600px;
+    margin-left: 200px;
+    padding: 25px;
+    background-color: rgba(255, 255, 255, 0.1);
+
+
+}
+.free-title{
+    font-size: 2.5rem;
+    font-weight: 900;
+    width: 193px;  
+    margin: 0 auto; 
+}
+
+/* habits section style here */
+
+
+
+.habits-contine{
+    margin: 0 auto;
+    text-align: center;
+
+}
+
+.habits-contine1{
+    max-width: 231px;
+    max-height: 274px;
+}
+.habits-contine2{
+    max-width: 231px;
+    max-height: 274px;
+}
+.habits-contine3{
+    max-width: 231px;
+    max-height: 274px;
+}
+.habits-contine4{
+    max-width: 231px;
+    max-height: 274px;
+}
+
+.habits-contine1-image1{
+    border-radius: 100px;
+    margin-left: 25px;
+}
+.habits-contine-title{
+    font-size: 1.2rem;
+    color: rgba(255, 255, 255, 1) ;
+    text-align: center;
+    margin-top: 30px;
+}
+
+.habits-contine-discription{
+    color: rgba(255, 255, 255, 0.5);
+    font-size: 14px;
+    text-align: center;}
+
+.habits-contine1-image2{
+    border-radius: 100px;
+    margin-left: 25px;    
+}
+
+
+.habits-contine1-image3{
+    border-radius: 100px;
+    margin-left: 25px;
+}
+
+
+.habits-contine1-image4{
+    border-radius: 100px;
+    margin-left: 25px;
+}
+
+.habits-contine-item{
+    max-width: 1060px;
+    /* max-height: 452px; */
+    margin: 0 auto;
+    gap: 40px;
+    margin-top: 130px;
+}
+
+.habits-title{
+    font-size: 3rem;
+    color: rgba(255, 255, 255, 1);
+}
+
+.habits-discription{
+    color: rgba(255, 255, 255, 0.5);
+}
+
+
+/* run extra section style here */
+
+.run-extra-content{
+    justify-content: space-between;
+    max-width: 1370px;
+    margin: 0 auto;
+    background-color: rgb(34,34,34);
+    border-radius: 15px;
+    margin-top: 100px;
+}
+
+.run-extra-title{
+    color:rgba(255, 255, 255, 1);
+    font-size: 3rem;
+}
+
+.run-extra-discription{
+    font-size: 1rem;
+    margin-top: 14PX;
+}
+
+.run-extra-contener{
+    max-width: 443px;
+    /* max-height: 200px; */
+    color: rgba(255, 255, 255, 0.5);
+    margin-top: 40px;
+    margin-bottom: 40px;
+    margin-left: 54px;
+}
+
+.run-extra-iamge{
+    max-width: 366px;
+    max-height: 312px;
+    border-radius: 15px;
+    object-fit:none;
+    object-position: 66% 33%;
+    margin-right: 32px;
+    margin-top: 30px;
+    margin-left:165px;
+}
+
+.footer-sec{
+    display: flex;
+    margin: 0 auto;
+    max-width: 1060px;
+    gap: 102px;
+}
+
+
+/* calculator section style here */
+
+
+
+.bmi-calculatorr-container{
+    max-width: 1370px;
+    justify-content: space-between;
+    margin: 0 auto;
+}
+.bmi-container{
+    max-width: 671px;
+    max-height: 119px;
+    margin: 0 auto;
+    margin-top: 88px;
+}
+.bmi-chat{
+    margin-bottom:50px;
+    margin-top: 49px;
+}
+.bmi-title{
+    font-weight: 900;
+    font-size: 3rem;
+    margin-bottom: 14px;
+
+}
+.bmi-description{
+    color: rgba(255, 255, 255, 0.50);
+    margin-bottom: 88px;
+}
+.bmi-calculator-chart{
+    font-weight: 600;
+    font-size: 1.8rem;
+    margin-bottom: 52px;
+}
+table{
+    max-height: 216px;
+    max-width: 350px;
+    border: 2px solid yellow;
+    border-collapse: collapse;
+}
+ th, td{
+    border: 2px solid white;
+    padding: 10px 20px;
+ }
+ .bmi-calculate{
+    max-width: 577px;
+    max-height: 386px;
+    margin-bottom:50px;
+    margin-top: 49px;
+ }
+ .sex{
+    height: 48px;
+    width: 236px;
+    padding: 0 20px;
+    background-color: rgba(255, 255, 255, 0.60);
+    border: none;
+    border-radius: 10px;
+    margin-bottom: 12px;
+ }
+ .select{
+    height: 48px;
+    width: 555px;
+    padding: 0 20px;
+    background-color: rgba(255, 255, 255, 0.60);
+    border: none;
+    border-radius: 10px;
+    margin-bottom: 12px;
+ }
+ input, select{
+    color: white;
+ }
+
+
+ /* team section style here */
+
+
+
+
+ .team-content{
+    max-width: 671px;
+    margin: 0 auto;
+    color: white;
+    text-align: center;
+    margin-bottom: 58px;
+}
+
+.team-images{
+    background-color: rgba(255, 255, 255, 0.5);
+    max-width: 1060px;
+    height: 604px;
+    margin: 0 auto;
+    border-radius: 10px;
+}
+.team-image{
+    margin: 0 auto;
+    display: grid;
+    grid-template-columns: repeat(3, 3fr);
+    column-gap: 5px;
+    row-gap: 5px;
+    border-radius: 1px;
+}
+
+.team-contant-image{
+    width: 326px;
+    height: 272px;
+    object-fit: cover;
+    object-position: center;
+    border-radius: 15px;
+    margin-top: 15px;
+    margin-left: 10px;
+}
+
+
+
+/* footer section style here */
+.footer-ff{
+    max-width: 1370px;
+    margin: 0 auto;
+}
+.brand-name{
+    color: #E6533C;
+    font-weight: 900;
+    font-size: 4.356rem;
+}
+
+.footer-brand-discription{
+    color: #afa2a2;
+}
+.footer-sec{
+align-items: center;
+justify-content: space-between;
+margin-left: 102px;
+}
+.footer-contener{
+    align-items: center;
+    justify-content: space-between;
+}
+.footer-content-1{
+    margin-left: 152px;
+}
+.footer-tittle{
+    color: #FFFFFF;
+    font-weight: 800px;
+    font-size: 2rem;
+}
+.footer-links{
+    list-style-type: none;
+    padding-left: 0;
+}
+.footer-link{
+    text-decoration: none;
+    color: #afa2a2;
+   font-weight: 400px;
+   font-size: 1.43rem;
+}
+.copyright{
+    font-size: 1.4rem;
+    text-align: center;
+}
+
+
+/* media quary style */
+
+
+@media screen and (max-width: 576px) {
+    .header-containt,
+    .habits-contine-item,
+    .run-extra-content,
+    .bmi-calculatorr-container,
+    .footer-sec,
+    .footer-contener{
+        flex-direction: column;
+    }
+    .header-img{
+        margin-left: -50px;
+    }
+    .habits-contine1,
+    .habits-contine2,
+    .habits-contine3,
+    .habits-contine4,
+    .run-extra-iamge,
+    .team-contant-image{
+        margin: 0 auto;
+    }
+    .team-image{
+        grid-template-columns: repeat(1, 1fr);
+    }
+    .team-images{
+        width: 100%;
+        height: 100%;
+    }
+    .team-contant-image{
+            margin-top: 20px;
+    }
+    .footer-content-1{
+        padding: 0px;
+    }
+    .footer-sec{
+        margin-left: 0px;
+    }
+    .footer-content-1{
+        margin-left: 0px;
+        padding: 0px;
+    }
+    .brand-name{
+        margin-top: 20px;
+        margin-bottom: 10px;
+    }
+}
